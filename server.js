@@ -1,6 +1,6 @@
 /**
  * server start
- * @author vinod khetade on 22/01/2020.
+ * @author vinod khetade on 22/01/2020
  */
 var express = require('express');
 var app = express();

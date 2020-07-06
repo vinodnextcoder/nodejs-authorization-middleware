@@ -1,3 +1,9 @@
+/**
+ * server start
+ * @author vinod khetade on 06/07/2020
+ */
+var e
+
 module.exports = function (req, res, next) {
     //get the token from the header if present
     const token = req.headers["x-access-token"] || req.headers["authorization"];

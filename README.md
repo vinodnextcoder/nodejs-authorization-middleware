@@ -28,9 +28,9 @@
 
     - ```node ./node_modules/mocha/bin/mocha```
  
-### project test case check
+### project start
 
-* for tests project
+* for starting node.js app on http://localhost:3000
 
     - ```node server.js```
  
